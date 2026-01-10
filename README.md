@@ -1,7 +1,10 @@
+<div align="center" markdown=1>
+ <img src="/.github/assets/cover.png">
+</div>
 
-# ![ReX Engine Cover](/.github/assets/cover.png)
+<h1 align="center">ReX Engine</h1>
 
-![Issues](https://img.shields.io/github/issues-raw/redot-rex/redot-engine?color=FFA726&label=issues&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues-raw/redot-rex/rex-engine?color=FFA726&label=issues&style=for-the-badge)
 ![Pull Requests](https://img.shields.io/github/issues-pr-raw/redot-rex/rex-engine?color=FFA726&label=PRs&style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/redot-rex/rex-engine?color=FFA726&label=contributors&style=for-the-badge)
 ![Lines](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/redot-rex/rex-engine/badge?style=flat&logoColor=white&color=FFA726&style=for-the-badge)
@@ -10,7 +13,7 @@
 
 <div align="center">
 
-<h1 align="center">ReX Engine</h1>
+
 
 **[ReX Engine](https://www.redotengine.org) is a cross-platform game engine for creating 2D and 3D games.** It offers a set of tools to simplify game development. Games can be exported to desktop (Linux, macOS, Windows), mobile (Android, iOS), web, and consoles.
 
